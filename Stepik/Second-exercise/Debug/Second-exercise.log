@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Kirill\source\repos\Stepik-C-lessons\Stepik\Second-exercise\main.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  summary.cpp
+  Создание кода...
+  Second-exercise.vcxproj -> C:\Users\Kirill\source\repos\Stepik-C-lessons\Stepik\Debug\Second-exercise.exe
